@@ -1,0 +1,25 @@
+========================================================================
+                         QR-MAX END USER LICENSE AGREEMENT
+========================================================================
+
+By downloading, cloning, or using the QR-Max software, you agree to the 
+following terms and conditions:
+
+1. SCOPE OF USE:
+   This software is provided strictly for personal, educational, and 
+   authorized URL generation utility purposes.
+   
+2. DISCLAIMER OF LIABILITY:
+   The software is provided "as is", without warranty of any kind, express 
+   or implied. In no event shall the authors or copyright holders be liable 
+   for any claim, damages, or other liability arising from its use.
+   
+3. USER RESPONSIBILITY:
+   You are solely responsible for ensuring that your use of this tool 
+   complies with all local, state, and federal laws and regulations.
+   
+4. DISTRIBUTION:
+   Redistribution, modification, and use are governed by the terms specified 
+   in the project's MIT License.
+   
+========================================================================
